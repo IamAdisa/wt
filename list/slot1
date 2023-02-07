@@ -1,19 +1,12 @@
 -- slot1
 farm = {
-  "world1",
-  "world2",
-  "world3",
-  "world4",
-  "world5",
-  "world6",
-  "world7",
-  "world8",
-  "world9",
-  "world10",
-  "world11",
-  "world12",
+"fatanipep1", "fatanipep2", "fatanipep3",
+"fatanipep4", "fatanipep5", "fatanipep6",
+"fatanipep7", "fatanipep8", "fatanipep9",
+"fatanipep10","fatanipep11","fatanipep12",
+"fatanipep13"
 }
 
-lisensi = "licensi rotation"
+lisensi = "9decq7brywbiaf5xrESh"
 
-webhook_url = "http://discord.com/api/123123123"
+webhook_url = "https://discord.com/api/webhooks/1025839162009591818/YlBb2pKWZU_xbgkpARjxAYWfwJmIFbIB4FbtoBkEspwcoyG7RLBvD40UKtWokp_NySPg"
